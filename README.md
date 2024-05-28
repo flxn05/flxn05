@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @flxn05
+- 👀 I’m interested in HTML and CSS for some personal projects.
